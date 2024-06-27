@@ -64,6 +64,8 @@ You can customize the demo by modifying the .ino file. The code is discussed in 
 - Verify that the power supply is sufficient for the servo drives.
 - Check the Arduino serial monitor for any error messages or debugging information.
 
+If there are any additional concerns/issues, please refer to the youtube video at the top of this repo.
+
 ## Code Purpose
 The purpose of this repository is to show the compatibility of DMM AC Servo drives with various methods of control. In this case, an Arduino Mega 2560 was used. The goal of using this particular method of control was to show that our drives can be controlled simply with easily accessible hardware. Below are the links to our YouTube channel and our main website. Feel free to contact us regarding sales or any other inquiries.
 
