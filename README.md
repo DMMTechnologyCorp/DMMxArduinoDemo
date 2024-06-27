@@ -16,7 +16,7 @@ Watch the demo video here: [Arduino Control Demo with DYN2 Servo Drives](https:/
 
 ## Software Required
 
-- Arduino IDE (latest version recommended)
+- [Arduino IDE](https://www.arduino.cc/en/software) (latest version recommended)
 - [DMM DRV Software](https://dmm-tech.com/Downloads.html) for drive configuration
 
 ## Getting Started
